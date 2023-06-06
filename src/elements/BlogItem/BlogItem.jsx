@@ -1,3 +1,11 @@
-import BlogItem from "./BlogItem";
+import "../../assets/styles/elements/BlogItem.scss"
 
-export default BlogItem;
+function BlogItem() {
+	return(
+		<div className="blog-item">
+
+		</div>
+	)
+}
+
+export default BlogItem
