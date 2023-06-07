@@ -7,14 +7,14 @@ import "./assets/styles/elements/Main.scss";
 function App() {
   return (
     <div className="App">
-     <Header/>
-     <Banner/>
-     <div className="blog-news-container">
-      <Blog/>
-     <News/>
-     </div>
+      <Header />
+      <Banner />
+      <div className="blog-news-container">
+        <Blog />
+        <News />
+      </div>
     </div>
-  ) 
+  );
 }
 
 export default App;

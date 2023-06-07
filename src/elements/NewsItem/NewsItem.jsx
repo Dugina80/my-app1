@@ -1,11 +1,7 @@
-import "../../assets/styles/elements/NewsItem.scss"
+import "../../assets/styles/elements/NewsItem.scss";
 
 function NewsItem() {
-	return(
-		<div className="news-item">
-
-		</div>
-	)
+  return <div className="news-item"></div>;
 }
 
-export default NewsItem
+export default NewsItem;
